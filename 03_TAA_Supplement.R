@@ -1,4 +1,3 @@
-# Should already have tidyverse installed, so this just loads it into memory
 library(tidyverse)
 
 # Read in us-counties.csv
